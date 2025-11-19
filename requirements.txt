@@ -1,0 +1,22 @@
+# Core Testing Libraries
+pytest
+pytest-html
+pytest-xdist
+allure-pytest
+
+# Web Automation
+selenium
+webdriver-manager
+
+# Reporting & Logging
+pytest-metadata
+colorama
+
+# Utilities
+requests
+openpyxl
+python-dotenv
+
+# Optional (useful in many automation projects)
+Faker          # For generating random test data
+pyyaml         # For reading config files
