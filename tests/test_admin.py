@@ -30,3 +30,4 @@ def test_admin_deleteuser(setup):
     file_name = "test_admin_deleteuser " + time.localtime()
     driver.save_screenshot(f"reports/screenshot/{file_name}.png")
     print(driver.page_source)
+    time.sleep(2)
