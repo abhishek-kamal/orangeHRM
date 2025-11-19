@@ -1,0 +1,40 @@
+Toast text: Admin
+PIM
+Leave
+Time
+Recruitment
+My Info
+Performance
+Dashboard
+Directory
+Maintenance
+Claim
+Buzz
+Admin
+User Management
+Upgrade
+Cana Eliza
+User Management
+Job
+Organization
+Qualifications
+Nationalities
+Corporate Branding
+Configuration
+System Users
+Username
+User Role
+-- Select --
+Employee Name
+Status
+-- Select --
+Reset
+Search
+
+Add
+OrangeHRM OS 5.7
+© 2005 - 2025 OrangeHRM, Inc. All rights reserved.
+
+Success
+Successfully Deleted
+×
